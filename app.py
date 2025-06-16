@@ -181,7 +181,7 @@ with tab_sobre:
     
     # Coloque sua foto na mesma pasta do script e mude o nome do arquivo aqui
     # OU coloque um link para uma foto online
-    caminho_da_foto = "https://www.placeholder.com/150" # <--- SUBSTITUA ESTE LINK
+    caminho_da_foto = "eu.jpg" # <--- SUBSTITUA ESTE LINK
 
     col1, col2 = st.columns([1, 3])
 
