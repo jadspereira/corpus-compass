@@ -147,7 +147,7 @@ with tab_analisador:
         excel_bytes = output.getvalue()
 
         st.download_button(
-            label="📥 Baixar Planilha Excel com os Fichamentos",
+            label="Baixar Planilha Excel com os Fichamentos",
             data=excel_bytes,
             file_name="relatorio_fichamentos.xlsx",
             mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
