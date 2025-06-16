@@ -186,7 +186,7 @@ with tab_sobre:
     col1, col2 = st.columns([1, 3])
 
     with col1:
-        st.image(caminho_da_foto, caption="Jade Pereira", width=150)
+        st.image(caminho_da_foto, caption="Jade Pereira", width=200)
 
     with col2:
         # Edite este texto com a sua apresentação
