@@ -1,0 +1,8 @@
+streamlit
+pandas
+langchain
+langchain-google-genai
+langchain_community
+pypdf
+reportlab
+openpyxl
